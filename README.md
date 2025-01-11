@@ -15,10 +15,12 @@ https://www.devglan.com/online-tools/aes-encryption-decryption
    
 2. O objetivo do trabalho é realizar a criptoanálise por força bruta do AES em modo ECB. Cada estudante vai receber dois textos cifrados, codificados em hexadecimal. Sabe-se que foram usadas chaves distintas para as duas cifragens, e que os arquivos que foram cifrados eram mensagens de texto em ASCII legível, mas se desconhece maiores detalhes (qual língua, conteúdo, etc), conforme discutido na questão anterior. Os arquivos com os textos cifrados estão no Moodle, um por estudante do curso.
 O primeiro texto está cifrado com uma chave "fraca" (arquivo terminado por "-weak.txt"), da qual os 11 primeiros caracteres são conhecidos e os últimos 5 são somente letras [a-z][A-Z] ou dígitos [0-9]. A chave fraca está na forma
+
 SecurityAESXXXXX
 
 
 O segundo texto está cifrado com uma chave "forte" (arquivo terminado por "-strong.txt"), da qual 10 caracteres são conhecidos e os últimos 6 são somente letras [a-z][A-Z] ou dígitos [0-9]. A chave forte está na forma
+
 Security00XXXXXX
 
 
